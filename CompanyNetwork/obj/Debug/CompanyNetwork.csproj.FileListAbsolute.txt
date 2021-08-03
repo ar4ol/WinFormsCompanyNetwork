@@ -1,0 +1,36 @@
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\bin\Debug\CompanyNetwork.exe.config
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\bin\Debug\CompanyNetwork.exe
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\bin\Debug\CompanyNetwork.pdb
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.accountForm.resources
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.adminForm.resources
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.authorizationForm.resources
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.forgotPassForm.resources
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.registrationForm.resources
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Properties.Resources.resources
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.exe
+C:\Users\Artem\source\repos\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.pdb
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\bin\Debug\CompanyNetwork.exe.config
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\bin\Debug\CompanyNetwork.exe
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\bin\Debug\CompanyNetwork.pdb
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.csprojAssemblyReference.cache
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.accountForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.adminForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.authorizationForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.registrationForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Properties.Resources.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.csproj.GenerateResource.cache
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.exe
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.pdb
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.regDepartmentForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.ShowAndChangeUserForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.delDepartmentForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.Filter.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.addUsersToChatForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.newChatForm.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.NewMessage.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.FilterMessage.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.Forms.ColleagueShow.resources
+D:\1. универ\3 семестр\Курсач\CompanyNetwork\CompanyNetwork\obj\Debug\CompanyNetwork.csproj.CoreCompileInputs.cache
